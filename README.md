@@ -8,6 +8,8 @@ This repo contains an analysis of parachain netflows.
   - [Kusama Netflows](data/out/Kusama.html)
 
 # Setup
-  python -m venv .venv
-  .venv/scripts/activate
-  pip install -r requirements.txt
+```
+python -m venv .venv
+.venv/scripts/activate
+pip install -r requirements.txt
+```
