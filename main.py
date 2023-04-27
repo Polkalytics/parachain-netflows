@@ -37,8 +37,8 @@ import base64
 input_folder = "data/in/"
 output_folder = "data/out/"
 
-#network_name = "Polkadot"
-network_name = "Kusama"
+network_name = "Polkadot"
+#network_name = "Kusama"
 
 if network_name == "Polkadot":
     token_name = "DOT"
